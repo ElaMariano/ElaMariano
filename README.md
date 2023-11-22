@@ -10,7 +10,7 @@
 
 Se você tiver alguma pergunta ou sugestão, não hesite em entrar em contato! Estou sempre aberto a novas oportunidades e conexões na comunidade de desenvolvedores.
 
-Boa codificação! 🚀✨
+Boa codificação ! 🚀✨
 
 <!--
 **ElaMariano/ElaMariano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
